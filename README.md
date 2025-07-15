@@ -24,3 +24,19 @@ These scripts are intended for educational and experimental purposes in the fiel
 - Basic knowledge of signal processing concepts
 
 ---
+
+## 📊 Output
+Each script visualizes:
+
+Original message signal
+
+Carrier signal
+
+Modulated signal (AM/FM)
+
+## 📚 License
+This project is open-source and free to use for educational purposes. No warranty is provided.
+
+## 🙋‍♂️ Author
+Created by kshyxxz
+Feel free to reach out for improvements or collaboration.
